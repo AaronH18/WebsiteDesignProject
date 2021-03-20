@@ -1,0 +1,100 @@
+body {
+    background-color: #000000;
+    margin-left:5%;
+    margin-right:5%;
+}
+
+h1, h2, h3 , h4 , p {
+    color:white;
+    font-family: verdana;
+    text-align: center;
+}
+
+#text {
+    color: white;
+    font-family: arial;
+    text-align: justify;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.fullWidthContent {
+    width:100%;
+}
+
+.pageOne {
+    width:40%;
+    height:100%;
+}
+
+a {
+    font-size:35px;
+}
+
+.anchorLarge {
+    font-size:15px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgb(187, 187, 187);
+}
+
+
+footer {
+    background-color: rgb(107, 107, 107);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+nav {
+    background-color: rgb(107, 107, 107);
+    padding-top: 13px;
+    padding-bottom: 13px;
+    text-align: center;
+}
+
+nav a {
+    margin-left: 10px;
+    border:solid #ff5e5e 2px;
+    font-family: arial;
+    color: white;
+    border-radius: 15px;
+}
+
+#active-page
+{
+  background-color: #ff5e5e;
+}
+
+#image {
+    float:left;
+    padding: 15px;
+}
+
+#more-text {
+    text-decoration: none;
+    font-size:15px;
+}
+
+#logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 15px;
+}
+
+#web-header {
+    text-align: center;
+    padding-left: 100px;
+    color: white;
+}
+
+.guccishoes {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 25%;
+}
